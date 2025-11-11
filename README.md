@@ -52,7 +52,7 @@ Results-driven Software Engineer with **6+ years of experience** in backend deve
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Proficient:** MySQL (90%), PostgreSQL (85%) | **Familiar:** MongoDB (70%)
+**Proficient:** MySQL (90%), PostgreSQL (85%) | **Familiar:** MongoDB (50%)
 
 ### Architecture & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
