@@ -89,7 +89,6 @@ Results-driven Software Engineer with **6+ years of experience** in backend deve
 
 [![Email](https://img.shields.io/badge/Email-dev.ahmed.elsied@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.ahmed.elsied@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B201024404534-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201024404534)
-[![Location](https://img.shields.io/badge/Location-Mansoura%2C%20Egypt-red?style=for-the-badge&logo=map-marker&logoColor=white)](https://www.google.com/maps/place/Mansoura)
 
 </div>
 
