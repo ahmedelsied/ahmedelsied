@@ -4,7 +4,7 @@
 
 ### Senior Backend Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-elsayed-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-elsayed-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-ahmed-elsied)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedelsied)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_A_Elsayed)
@@ -14,7 +14,7 @@
 
 ---
 
-Results-driven Software Engineer with **6+ years of experience** in backend development. I design and optimize scalable, secure, high-performance applications using **PHP, Laravel, and MySQL**. I excel at tackling complex backend challenges, improving system architecture, and have experience leading teams and mentoring developers.
+Results-driven Software Engineer with **7+ years of experience** in backend development. I design and optimize scalable, secure, high-performance applications using **PHP, Laravel, and MySQL**. I excel at tackling complex backend challenges, improving system architecture, and have experience leading teams and mentoring developers.
 
 <div align="center">
 
@@ -38,21 +38,21 @@ Results-driven Software Engineer with **6+ years of experience** in backend deve
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Expert:** PHP (95%) | **Proficient:** JavaScript (70%) | **Familiar:** TypeScript, Python, C++ (50%)
+**Expert:** PHP | **Proficient:** JavaScript | **Familiar:** TypeScript, Python, C++
 
 ### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Expert:** Laravel (95%) | **Familiar:** NestJS, Node.js (50%)
+**Expert:** Laravel | **Familiar:** NestJS, Node.js
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Proficient:** MySQL (90%), PostgreSQL (85%) | **Familiar:** MongoDB (50%)
+**Proficient:** MySQL, PostgreSQL | **Familiar:** MongoDB
 
 ### Architecture & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -61,13 +61,13 @@ Results-driven Software Engineer with **6+ years of experience** in backend deve
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Architecture:** DDD, Microservices, System Design, API Design  
-**DevOps:** Docker, AWS, Linux, Git (95%), CI/CD (75%)
+**DevOps:** Docker, AWS, Linux, Git, CI/CD
 
 ### Testing
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-4E5D94?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Proficient:** PHPUnit (90%) | **Familiar:** Pest PHP (60%), Selenium (65%), Puppeteer (65%)
+**Proficient:** PHPUnit | **Familiar:** Pest PHP, Selenium, Puppeteer
 
 ---
 
